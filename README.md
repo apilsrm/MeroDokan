@@ -25,3 +25,17 @@ To set up the project and use Old Redux, follow these steps:
    ```bash
    npm install
    ```
+
+## Running the Application
+
+To run the application, you can use the following command:
+
+```bash
+npm start
+```
+
+This will start your development server and allow you to interact with your Redux-powered e-commerce application.
+
+## Conclusion
+
+This README provides a basic overview of setting up and using Node, Express, Redux in your JavaScript project. By following these steps, you can implement Redux for state management and manage the state of your application , multer,  Express, TailwindCSS mongoose etc for in a predictable and centralized manner.
